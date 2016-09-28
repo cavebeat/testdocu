@@ -1,8 +1,8 @@
-#Compilation
+# Compilation
 
-##Compilation on Linux
+## Compilation on Linux
 
-###Install package dependencies:
+### Install package dependencies:
 #### Debian/Ubuntu
 ```bash
    sudo apt-get install libglib2.0-dev libupnp-dev qt4-dev-tools \
@@ -24,21 +24,21 @@
        libxss opencv qt4 speex sqlcipher
 ```
 
-###Checkout the source code
+### Checkout the source code
 ```bash
    mkdir ~/retroshare
    cd ~/retroshare 
    git clone https://github.com/RetroShare/RetroShare.git trunk
 ```
 
-###Compile
+### Compile
 ```bash
    cd trunk
    qmake CONFIG+=debug
    make
 ```
 
-###Install
+### Install
 ```bash
    sudo make install
 ```

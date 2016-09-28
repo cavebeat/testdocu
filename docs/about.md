@@ -1,4 +1,4 @@
-#What is RetroShare
+# What is RetroShare
 
 RetroShare is the next generation of [peer to peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) network. Unlike classic peer to peer softwares, RetroShare only connects to trusted friends and not just anyone, this is called a [friend-to-friend (F2F)](https://en.wikipedia.org/wiki/Friend-to-friend) network.
 
@@ -14,6 +14,6 @@ Communication services in RetroShare:
  - Forums
  - Voice over IP
 
-#Community
+# Community
 
 RetroShare is built completely without any corporate or state driven sponsors. It is not depending on funding, hence it cannot be pressured because of that. 
